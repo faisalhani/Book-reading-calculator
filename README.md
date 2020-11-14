@@ -12,3 +12,4 @@ npm install
 npm start
  
  
+https://github.com/faisalhani/Book-reading-calculator/blob/main/Book-reading-calculator.png
