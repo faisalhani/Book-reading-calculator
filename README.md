@@ -10,6 +10,9 @@ npm install
 # To start
 
 npm start
- 
+
+# Demo
+https://faisalhani.github.io/Book-reading-calculator/
+
 ![alt text](https://github.com/faisalhani/Book-reading-calculator/blob/main/Book-reading-calculator.png) 
 
