@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Book-reading-calculator/static/css/main.438c066b.chunk.css",
+    "main.js": "/Book-reading-calculator/static/js/main.72d93725.chunk.js",
+    "main.js.map": "/Book-reading-calculator/static/js/main.72d93725.chunk.js.map",
+    "runtime-main.js": "/Book-reading-calculator/static/js/runtime-main.3ab526d9.js",
+    "runtime-main.js.map": "/Book-reading-calculator/static/js/runtime-main.3ab526d9.js.map",
+    "static/css/2.437d98bc.chunk.css": "/Book-reading-calculator/static/css/2.437d98bc.chunk.css",
+    "static/js/2.938e02fb.chunk.js": "/Book-reading-calculator/static/js/2.938e02fb.chunk.js",
+    "static/js/2.938e02fb.chunk.js.map": "/Book-reading-calculator/static/js/2.938e02fb.chunk.js.map",
+    "index.html": "/Book-reading-calculator/index.html",
+    "precache-manifest.a3050974c6bc7851d398cb0303d38b60.js": "/Book-reading-calculator/precache-manifest.a3050974c6bc7851d398cb0303d38b60.js",
+    "service-worker.js": "/Book-reading-calculator/service-worker.js",
+    "static/css/2.437d98bc.chunk.css.map": "/Book-reading-calculator/static/css/2.437d98bc.chunk.css.map",
+    "static/css/main.438c066b.chunk.css.map": "/Book-reading-calculator/static/css/main.438c066b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ab526d9.js",
+    "static/css/2.437d98bc.chunk.css",
+    "static/js/2.938e02fb.chunk.js",
+    "static/css/main.438c066b.chunk.css",
+    "static/js/main.72d93725.chunk.js"
+  ]
+}
